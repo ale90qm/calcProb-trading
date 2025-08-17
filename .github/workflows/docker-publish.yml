@@ -33,4 +33,4 @@ jobs:
           context: . # Usa el Dockerfile en la raíz del proyecto
           push: true # Le dice que sí, que suba la imagen
           # Etiqueta de la imagen. Cambia "tu-usuario" por tu nombre de usuario real de Docker Hub.
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/calprob-trading:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/calcprob-trading:latest
