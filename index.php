@@ -96,7 +96,7 @@
     </div>
     <div id="memo-modal-overlay" class="modal-overlay">
         <div class="modal-content">
-            <h2>Mis Frases de Trading</h2><ul id="memo-list"></ul><input type="text" id="new-memo-input" placeholder="Escribe una nueva frase o regla..."><div class="modal-actions"><button id="close-memo-btn">Cerrar</button><button id="add-memo-btn">Agregar</button></div>
+            <h2>Notas</h2><ul id="memo-list"></ul><input type="text" id="new-memo-input" placeholder="Escribe una nueva frase o regla..."><div class="modal-actions"><button id="close-memo-btn">Cerrar</button><button id="add-memo-btn">Agregar</button></div>
         </div>
     </div>
     <div id="confirm-modal-overlay" class="modal-overlay">
