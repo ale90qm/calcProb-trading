@@ -84,7 +84,7 @@
         <div id="memo-display-container"><p id="memo-display-text"></p></div>
         <div id="tab-container" class="tab-container"></div>
         <div id="content-container" class="content-container">
-            <div id="empty-state-message"><h2>Comienza a Calcular</h2><p>Usa el menú (☰) para agregar tu primera operativa. Ejemplo: "Boom 1000 Index".</p></div>
+            <div id="empty-state-message"><h2>Comienza a Calcular la Probaibildad de Éxito</h2><p>Usa el menú (☰) para agregar tu primera operativa. Ejemplo: "Boom 1000 Index".</p></div>
         </div>
     </div>
     <div id="add-index-modal-overlay" class="modal-overlay">
