@@ -79,7 +79,7 @@
             <button id="menu-add-index">Agregar Indice o Activo</button>
             <button id="menu-show-memos">Notas</button>
         </div>
-        <h1>Calculadora de probabilidad de éxito</h1>
+        <h1>Calculadora de Probabilidad v1.1</h1>
         <p class="note"><strong>Recomendación:</strong> Opera a favor del índice. Para Boom, solo compras. Para Crash, solo ventas.</p>
         <div id="memo-display-container"><p id="memo-display-text"></p></div>
         <div id="tab-container" class="tab-container"></div>
