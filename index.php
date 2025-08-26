@@ -77,7 +77,7 @@
         </div>
         <div id="main-menu">
             <button id="menu-add-index">Agregar Operativa</button>
-            <button id="menu-show-memos">Frases de Trading</button>
+            <button id="menu-show-memos">Notas de Trading</button>
         </div>
         <h1>Calculadora de probabilidad de éxito</h1>
         <p class="note"><strong>Recomendación:</strong> Opera a favor del índice. Para Boom, solo compras. Para Crash, solo ventas.</p>
