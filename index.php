@@ -76,7 +76,7 @@
             <button id="menu-btn" title="Menú"><i class="bi bi-list"></i></button>
         </div>
         <div id="main-menu">
-            <button id="menu-add-index">Agregar Operativa</button>
+            <button id="menu-add-index">Agregar Indice o Activo</button>
             <button id="menu-show-memos">Notas</button>
         </div>
         <h1>Calculadora de probabilidad de éxito</h1>
